@@ -1,12 +1,10 @@
 # JavaWebScraper
 
-## O que? 
-Minhã mãe trabalha como cuidadora de idosos
-Tendo a nescessidade e vontande encontrar novas oportunidades no mercado de trabalho ela decidiu encontrar vagas em casa de repouso.
 
-Isso que apresenta alguns desafios sendo que a maioria contrata por indicação e raramente se dá o trabalho de postar procura de emprego online(se comparado com outras industrias)
+Minha mãe é cuidadora de idosos e algum tempo ela já vem tentando se empregar em uma casa de repouso por ser menos puxado do que trabalhar direto com famílias. 
 
-Uma das formas mais eficientes é mandar emails diretamente para o rh da empresa. 
+Ela tem boas referencias mas não conhece muita gente da área, então até agora a única estratégia dela era entrar em site de casas de repouso e se candidatar por lá.
 
+O processo de encontrar um lugar, encontrar o site, encontrar o e-mail e mandar o currículo é algo que pode levar um tempão.
 
-Esse projeto usa a biblioteca Jsoup para fazer um web scrape em alguns sites e retornar as infomaçõe de contato. 
+Então decidi colocar em pratica o principio fundamental da programação que é "ela existem para resolver problemas". Com isso em mente criei uma aplicação que usa a biblioteca Jsoup para fazer um web scraping em vários sites de anuncio e encontrar o Nome, site e e-mails  de casas de repouso. Agora ela tem mais e-mail do que sabe o que fazer com eles. Que é um problema muito bom de se ter.
